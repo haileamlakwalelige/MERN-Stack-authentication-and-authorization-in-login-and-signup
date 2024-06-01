@@ -60,15 +60,15 @@ Before you begin, ensure you have the following installed on your local machine:
 
 1. **Start the Backend**:
    ```sh
-   cd backend
-   npm start
+   cd server
+   npm run dev
    ```
    The backend server will run on `http://localhost:4000`.
 
 2. **Start the Frontend**:
    ```sh
-   cd frontend
-   npm start
+   cd client
+   npm run dev
    ```
    The frontend server will run on `http://localhost:5173`.
 
